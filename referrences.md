@@ -1,4 +1,32 @@
 # リファレンス
 
+• Bach, J. \(1997\), Good Enough Quality:
 
+Beyond the Buzzword, in: IEEE Computer, August 1997, pp. 96-98
+
+• Bach, J. \(1998\), A framework for good enough testing, in: IEEE Computer Magazine, October 1998
+
+• Boehm, B.W. \(1979\), Software engineering economics, Prentice-Hall, Englewood Cliffs, NJ
+
+• Jørgensen, M. \(1994\), Empirical studies of software maintenance, Thesis for the 
+
+Dr.Sceintific degree, Research Report 188, University of Oslo
+
+• Gerard, P., and N. Thompson, RiskBased E-Business Testing, Artech House Publishers, ISBN 1-58053-314-0
+
+• Karlsson, J. and K. Ryan \(1997\), A Cost-Value Approach for Prioritizing Requirements, in: IEEE Software, September 1997
+
+• Khoshgoftaar, T.M., E.B. Allan, R. Halstead, G.P. Trio and R. M. Flass \(1998\), Using Process History to Predict 
+
+Software Quality, in: IEEE Computer, April 1998
+
+• Levendel, Y. \(1991\), Improving Quality with a Manufacturing Process, in: IEEE
+
+Software, March 1991
+
+• Pol, M. R. Teunissen, E. van Veenendaal \(2002\), Software Testing, A guide to the TMap Approach, Addison Wesley, ISBN 0-201-745712
+
+• Schaefer, H. \(2004\), Risk Based Testing, in: E. van Veenendaal, The Testing Practitioner – 2nd edition, UTN Publishing, ISBN 90-72194-65-9
+
+• Veenendaal, E. van \(2004\), The Testing Practitioner – 2nd edition, UTN Publishing, ISBN 90-72194-65-9
 
