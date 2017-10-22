@@ -9,5 +9,5 @@
 * [PRISMAプロセス](prisma.md)
 * [実践方法](shi-jian-fang-fa.md)
 * [リファレンス](.md)
-* [原著者に関して](yuan-zhu-zhe-306b-guan-3057-3066.md)
+* [リファレンス](.md)
 
