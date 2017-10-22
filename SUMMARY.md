@@ -11,3 +11,13 @@
 * [9.リファレンス](referrences.md)
 * [10.原著者に関して](10yuan-zhu-zhe-306b-guan-3057-3066.md)
 
+1.Intoroduction.md
+2.ProductRiskManagement.md
+3.GoodEnoughTesting.md
+4.TheTestingChellenge.md
+5.TheMostImportantPartsOfTheProduct.md
+6.TheWorstAreaOfTheProduct.md
+7.ThePRISMAProcess.md
+8.PracticalExperiences.md
+9.Referrences.md
+10.Biography.md
