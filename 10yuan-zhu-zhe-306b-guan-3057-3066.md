@@ -1,10 +1,10 @@
-# 原著者に関して
+# 10.原著者に関して
 
 Drs。 Erik van Veenendaal（www。erikvanveenendaal）nl）は、
 
 コンサルタント、トレーナー、そして20年以上の実地試験経験を持つソフトウェアテストと品質管理の分野で広く認められている専門家です。
 
-  彼はQuality Services BV（www.improveqs.nl）の創設者です。
+彼はQuality Services BV（www.improveqs.nl）の創設者です。
 
 EuroSTAR 1999、2002、2005で、最高のチュートリアルプレゼンテーションを受賞しました。 2007年に彼は
 
