@@ -8,5 +8,5 @@
 * [6.製品の最も悪い部分](zhi-pin-306e-zui-3082-e-3044-bu-fen.md)
 * [7.PRISMAプロセス](prisma.md)
 * [8.実践方法](shi-jian-fang-fa.md)
-* [Referrences](referrences.md)
+* [9.リファレンス](referrences.md)
 
