@@ -1,6 +1,5 @@
 # Summary
 
-* [README](README.md)
 * [1.イントロダクション](1.md)
 * [2.製品リスク管理](zhi-pin-30ea-30b9-30af-guan-li.md)
 * [3.十分なテスト](shi-fen-306a-30c6-30b9-30c8.md)
