@@ -1,6 +1,7 @@
 # Summary
 
-* [1.イントロダクション](README.md)
+* [README](README.md)
+* [1.イントロダクション](1.md)
 * [2.製品リスク管理](zhi-pin-30ea-30b9-30af-guan-li.md)
 * [3.十分なテスト](shi-fen-306a-30c6-30b9-30c8.md)
 * [4.テストの挑戦](30c6-30b9-30c8-306e-tiao-zhan.md)
@@ -9,5 +10,5 @@
 * [7.PRISMAプロセス](prisma.md)
 * [8.実践方法](shi-jian-fang-fa.md)
 * [9.リファレンス](referrences.md)
-* [10.原著者に関して](10yuan-zhu-zhe-306b-guan-3057-3066.md)
+* 1.イントロダクション
 
