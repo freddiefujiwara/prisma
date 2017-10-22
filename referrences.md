@@ -1,4 +1,4 @@
-# リファレンス
+# 9.リファレンス
 
 • Bach, J. \(1997\), Good Enough Quality:
 
@@ -8,7 +8,7 @@ Beyond the Buzzword, in: IEEE Computer, August 1997, pp. 96-98
 
 • Boehm, B.W. \(1979\), Software engineering economics, Prentice-Hall, Englewood Cliffs, NJ
 
-• Jørgensen, M. \(1994\), Empirical studies of software maintenance, Thesis for the 
+• Jørgensen, M. \(1994\), Empirical studies of software maintenance, Thesis for the
 
 Dr.Sceintific degree, Research Report 188, University of Oslo
 
@@ -16,7 +16,7 @@ Dr.Sceintific degree, Research Report 188, University of Oslo
 
 • Karlsson, J. and K. Ryan \(1997\), A Cost-Value Approach for Prioritizing Requirements, in: IEEE Software, September 1997
 
-• Khoshgoftaar, T.M., E.B. Allan, R. Halstead, G.P. Trio and R. M. Flass \(1998\), Using Process History to Predict 
+• Khoshgoftaar, T.M., E.B. Allan, R. Halstead, G.P. Trio and R. M. Flass \(1998\), Using Process History to Predict
 
 Software Quality, in: IEEE Computer, April 1998
 

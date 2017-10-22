@@ -10,5 +10,5 @@
 * [7.PRISMAプロセス](prisma.md)
 * [8.実践方法](shi-jian-fang-fa.md)
 * [9.リファレンス](referrences.md)
-* 1.イントロダクション
+* [1.イントロダクション](1.md)
 
