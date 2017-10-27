@@ -21,5 +21,5 @@
 * [9.リファレンス](9.Referrences.md)
 * [10.原著者に関して](10.Biography.md)
 
-
+\*[Practical Risk-Based Testing - Product RISk MAnagement: the PRISMA](http://www.erikvanveenendaal.nl/NL/files/e-book%20PRISMA.pdf)の原著者から翻訳と出版契約を締結し翻訳しています。
 
