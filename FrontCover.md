@@ -1,6 +1,6 @@
-# 実践リスクベーステスト-PRISMAメソッド-
+% 実践リスクベーステスト-PRISMAメソッド-
 
-著:Drs. Erik P.W.M. van Veenendaal CISA/訳:藤原史和
+% 著:Drs. Erik P.W.M. van Veenendaal CISA/訳:藤原史和
 
 システムテストフェーズに入る前のアクティビティつまり開発や単体、結合テストは遅延することはよくあることです。
 
