@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/freddiefujiwara/prisma.svg?branch=master)](https://travis-ci.org/freddiefujiwara/prisma)
 # 実践リスクベーステスト-PRISMAメソッド-
 
 著:Drs. Erik P.W.M. van Veenendaal CISA/訳:藤原史和
