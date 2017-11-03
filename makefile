@@ -3,7 +3,7 @@ all: pdf
 pdf: prepare
 	@echo "Creating pdf output ..."
 	@pwd
-	@pandoc --latex-engine=xelatex thesis.md --output thesis.pdf
+	pandoc prisma.md -o prisma.pdf --latex-engine=lualatex -V documentclass=ltjarticle
 
 prepare:
 	@echo "Preparing ..."
