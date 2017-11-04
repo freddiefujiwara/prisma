@@ -13,16 +13,16 @@ echo '---- Switch to gh-pages branch ----'
 git checkout gh-pages
 
 echo '---- Copy latest PDF build ----'
-mkdir -p dist
-cp $RESULT_PDF_PATH ./dist/${TRAVIS_BRANCH}-prisma.pdf
+cp $RESULT_PDF_PATH ./${TRAVIS_BRANCH}-prisma.pdf
 
 echo '---- Copy latest EPUB build ----'
-mkdir -p dist
-cp $RESULT_EPUB_PATH ./dist/${TRAVIS_BRANCH}-prisma.epub
+cp $RESULT_EPUB_PATH ./${TRAVIS_BRANCH}-prisma.epub
 
 echo '---- Copy latest Word build ----'
-mkdir -p dist
-cp $RESULT_DOCX_PATH ./dist/${TRAVIS_BRANCH}-prisma.docx
+cp $RESULT_DOCX_PATH ./${TRAVIS_BRANCH}-prisma.docx
+
+echo '---- Copy latest HTML build ----'
+cp $RESULT_HTML_PATH ./index.html
 
 echo '---- Set git settings ----'
 git config --global user.name $GIT_AUTHOR_NAME
