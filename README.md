@@ -28,3 +28,4 @@
 ※[Practical Risk-Based Testing - Product RISk MAnagement: the PRISMA](http://www.erikvanveenendaal.nl/NL/files/e-book%20PRISMA.pdf)の原著者から翻訳と公開に関する契約を締結し翻訳しています。
 
 PDF版は[こちら](https://github.com/freddiefujiwara/prisma/raw/gh-pages/dist/master-prisma.pdf)
+EPUB版は[こちら](https://github.com/freddiefujiwara/prisma/raw/gh-pages/dist/master-prisma.epub)

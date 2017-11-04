@@ -16,6 +16,10 @@ echo '---- Copy latest PDF build ----'
 mkdir -p dist
 cp $RESULT_PDF_PATH ./dist/${TRAVIS_BRANCH}-prisma.pdf
 
+echo '---- Copy latest EPUB build ----'
+mkdir -p dist
+cp $RESULT_EPUB_PATH ./dist/${TRAVIS_BRANCH}-prisma.epub
+
 echo '---- Set git settings ----'
 git config --global user.name $GIT_AUTHOR_NAME
 git config --global user.email $GIT_AUTHOR_EMAIL
