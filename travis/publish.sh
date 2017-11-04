@@ -20,6 +20,10 @@ echo '---- Copy latest EPUB build ----'
 mkdir -p dist
 cp $RESULT_EPUB_PATH ./dist/${TRAVIS_BRANCH}-prisma.epub
 
+echo '---- Copy latest Word build ----'
+mkdir -p dist
+cp $RESULT_DOCX_PATH ./dist/${TRAVIS_BRANCH}-prisma.docx
+
 echo '---- Set git settings ----'
 git config --global user.name $GIT_AUTHOR_NAME
 git config --global user.email $GIT_AUTHOR_EMAIL
