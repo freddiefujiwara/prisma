@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/freddiefujiwara/prisma.svg?branch=master)](https://travis-ci.org/freddiefujiwara/prisma)
+
 # 実践リスクベーステスト-PRISMAメソッド-
 
 著:Drs. Erik P.W.M. van Veenendaal CISA/訳:藤原史和
@@ -24,6 +25,7 @@
 * [9.リファレンス](9.Referrences.md)
 * [10.原著者に関して](10.Biography.md)
 
-※[Practical Risk-Based Testing - Product RISk MAnagement: the PRISMA](http://www.erikvanveenendaal.nl/NL/files/e-book%20PRISMA.pdf)の原著者から翻訳と公開に関する契約を締結し翻訳しています。
+※[Practical Risk-Based Testing - Product RISk MAnagement: the PRISMA](http://www.erikvanveenendaal.nl/NL/files/e-book PRISMA.pdf)の原著者から翻訳と公開に関する契約を締結し翻訳しています。
 
-[PDF](https://github.com/freddiefujiwara/prisma/blob/gh-pages/dist/master-prisma.pdf)
+PDF版は[こちら](https://github.com/freddiefujiwara/prisma/blob/gh-pages/dist/master-prisma.pdf)
+
